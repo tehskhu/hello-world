@@ -1,2 +1,4 @@
 # hello-world
-testing out how github works
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!)
